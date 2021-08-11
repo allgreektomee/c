@@ -39,28 +39,30 @@
 2. 1.2.3 배열 
 
 ## day7.문자열 
+[day7](https://github.com/devcation-learn/c/tree/main/Day7)
 1. 문자형 
 2. 문자열 배열  
 3. 포인터 문자열 
 4. 표준라이브러리 문자열 처리 함수 
 
 ## day8.포인터 심화
-1. 포인터 응용 및 정리  
+1. [포인터 응용 및 정리](https://github.com/devcation-learn/c/tree/main/Day8)  
+
 
 # Step 2 C언어 응용
 
-## day1. 포인터 심화 
+## day9. 포인터 심화 
 
-## day2.구조체1 
+## day10.구조체1 
 
-## day3.구조체2
+## day11.구조체2
 
-## day4. 연결리스트 
+## day12. 연결리스트 
 
-## day5. 스택 
+## day13. 스택 
 
-## day6. 큐
+## day14. 큐
 
-## day7. 알고리즘 
+## day15. 알고리즘 
 
-## day8. 종합 
+## day16. 종합 
