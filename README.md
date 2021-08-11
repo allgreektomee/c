@@ -39,11 +39,11 @@
 2. 1.2.3 배열 
 
 ## day7.문자열 
-[day7](https://github.com/devcation-learn/c/tree/main/Day7)
-1. 문자형 
-2. 문자열 배열  
-3. 포인터 문자열 
-4. 표준라이브러리 문자열 처리 함수 
+
+1. [문자형](https://github.com/devcation-learn/c/tree/main/Day7)
+2. [문자열 배열](https://github.com/devcation-learn/c/tree/main/Day7)
+3. [포인터 문자열](https://github.com/devcation-learn/c/tree/main/Day7)
+4. [표준라이브러리 문자열 처리 함수](https://github.com/devcation-learn/c/tree/main/Day7)
 
 ## day8.포인터 심화
 1. [포인터 응용 및 정리](https://github.com/devcation-learn/c/tree/main/Day8)  
