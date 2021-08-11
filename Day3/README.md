@@ -83,18 +83,18 @@
   
   int main(void)
   {
-  int num;
-  printf("정수를 입력하세요: ");
-  scanf("%d", &num);
-  
-  if(num<0)
-  printf("입력 값은 0보다 작다. \n");
-  else if (num==0)
-  printf("입력 값은 0이다 \n");
-  else
-  printf("입력 값은 0보다 작지 않다. \n");
-  
-  return 0;
+      int num;
+      printf("정수를 입력하세요: ");
+      scanf("%d", &num);
+      
+      if(num<0)
+        printf("입력 값은 0보다 작다. \n");
+      else if (num==0)
+        printf("입력 값은 0이다 \n");
+      else
+        printf("입력 값은 0보다 작지 않다. \n");
+      
+      return 0;
   }
   ```
   
@@ -145,35 +145,35 @@ int main(void)
   
   int main(void)
   {
-  char ch = 'a';
+    char ch = 'a';
   
-  switch (ch)
-  {
-  case 'a':
-  case 'A':
-  printf(" A입니다.\n");
-  break;
-  case 'b':
-  case 'B':
-  printf("B입니다.\n");
-  break;
-  case 'c':
-  case 'C':
-  printf(" C입니다.\n");
-  break;
-  case 'd':
-  case 'D':
-  printf(" D입니다.\n");
-  break;
-  case 'f':
-  case 'F':
-  printf("F입니다.\n");
-  break;
-  default:
-  printf("(A, B, C, D, F)");
-  break;
-  }
-  return 0;
+    switch (ch)
+    {
+        case 'a':
+        case 'A':
+            printf(" A입니다.\n");
+            break;
+        case 'b':
+        case 'B':
+            printf("B입니다.\n");
+            break;
+        case 'c':
+        case 'C':
+            printf(" C입니다.\n");
+            break;
+        case 'd':
+        case 'D':
+            printf(" D입니다.\n");
+            break;
+        case 'f':
+        case 'F':
+            printf("F입니다.\n");
+            break;
+        default:
+            printf("(A, B, C, D, F)");
+            break;
+    }
+    return 0;
   }
   ```
 
