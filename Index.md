@@ -22,9 +22,9 @@
 3. 삼향 연산
 
 ## day3.제어문 
-1. 조건문 
-2. 반복문 
-3. 기타제어문
+1. [조건문](https://github.com/devcation-learn/c/tree/main/Day3) 
+2. [반복문](https://github.com/devcation-learn/c/tree/main/Day3) 
+3. [기타제어문](https://github.com/devcation-learn/c/tree/main/Day3)
 
 ## day4.함수 
 1. 선언과 정의 

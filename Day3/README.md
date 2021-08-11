@@ -302,7 +302,7 @@ int main(void)
   * continue 문과 break 문은 일반적인 루프의 흐름을 제어 
   
   
-  ## continue 문
+  ### continue 문
   continue 문은 루프 내에서 사용하여 해당 루프의 나머지 부분을 건너뛰고, 
   바로 다음 조건식을 체크, 반복문 내에서 특정 조건에 대한 예외 처리할떄 사용 
   
